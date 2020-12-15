@@ -1,4 +1,4 @@
-# Titanic Data Science Solutions
+# Prediction on Titanic-Disaster with Machine Learning in Python
 
 The notebook walks us through the workflow to solve the competition.
 
